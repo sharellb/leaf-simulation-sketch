@@ -1,0 +1,9 @@
+const LEAF_COUNT = 25; // amount of leaves to create
+const LEAF_SIZE = 50;
+const GRASS_HEIGHT = 0.3; // percentage of height that grass' height takes up
+const TOP_LEAF_HEIGHT = -500;
+const LEAF_X_ACC = 0.01; // acceleration of leaf's x position
+const LEAF_Y_ACC = -0.00001; // acceleration that leaves slow down when moving
+const LEAF_RED_MIN = 100;
+const LEAF_RED_MAX = 150;
+const STARTING_VELOCITY = 0.5;
